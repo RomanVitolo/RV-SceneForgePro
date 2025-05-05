@@ -13,7 +13,67 @@ MonoBehaviour:
   m_Name: ScenePositionDatabase
   m_EditorClassIdentifier: 
   positions:
+  - name: Position_2
+    tag: 
+    position: {x: 20.829657, y: 0, z: 77.70671}
+    isExpanded: 0
+    gizmoColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+    labelColor: {r: 1, g: 1, b: 1, a: 1}
+    camPosition: {x: 0, y: 0, z: 0}
+    camRotation: {x: 0, y: 0, z: 0, w: 0}
+    orthographic: 0
+    camSize: 0
+    fieldOfView: 0
   - name: NewPosition
-    position: {x: 291.91824, y: 0, z: -42.35903}
-  - name: SavePositionTest2
-    position: {x: -125.15819, y: 0, z: 42.175323}
+    tag: 
+    position: {x: -67.518135, y: 0, z: 23.476372}
+    isExpanded: 0
+    gizmoColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+    labelColor: {r: 1, g: 1, b: 1, a: 1}
+    camPosition: {x: 0, y: 0, z: 0}
+    camRotation: {x: 0, y: 0, z: 0, w: 0}
+    orthographic: 0
+    camSize: 0
+    fieldOfView: 0
+  - name: NewPosition
+    tag: 
+    position: {x: 89.53474, y: 0, z: 2.147438}
+    isExpanded: 0
+    gizmoColor: {r: 1, g: 0.21380498, b: 0.015686274, a: 1}
+    labelColor: {r: 0.26726595, g: 0.6226415, b: 0.30213335, a: 1}
+    camPosition: {x: 0, y: 0, z: 0}
+    camRotation: {x: 0, y: 0, z: 0, w: 0}
+    orthographic: 0
+    camSize: 0
+    fieldOfView: 0
+  - name: NewPosition
+    tag: 
+    position: {x: 89.53474, y: 0, z: 2.147438}
+    isExpanded: 0
+    gizmoColor: {r: 1, g: 0.21380498, b: 0.015686274, a: 1}
+    labelColor: {r: 0.26726595, g: 0.6226415, b: 0.30213335, a: 1}
+    camPosition: {x: 0, y: 0, z: 0}
+    camRotation: {x: 0, y: 0, z: 0, w: 0}
+    orthographic: 0
+    camSize: 0
+    fieldOfView: 0
+  - name: Position_4
+    tag: 
+    position: {x: 0.9358368, y: 0, z: -105.09164}
+    isExpanded: 0
+    gizmoColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+    labelColor: {r: 1, g: 1, b: 1, a: 1}
+    camPosition: {x: 37.16384, y: 78.622475, z: 71.48904}
+    camRotation: {x: -0.07350092, y: 0.9047149, z: -0.38177148, w: -0.17418139}
+    orthographic: 0
+    camSize: 56.9965
+    fieldOfView: 60.000004
+  paths:
+  - name: 
+    pathColor: {r: 0, g: 0, b: 0, a: 0}
+    pointIndices: 
+    isClosed: 0
+    showInScene: 0
+    resolution: 0
+    tension: 0
+    isExpanded: 0

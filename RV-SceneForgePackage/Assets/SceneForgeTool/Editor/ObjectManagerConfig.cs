@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace RV.SceneForgeTool
+namespace RV.SceneForgeTool.Editor
 {
     [CreateAssetMenu(menuName = "LevelTools/Object Manager Config")]
     public class ObjectManagerConfig : ScriptableObject
